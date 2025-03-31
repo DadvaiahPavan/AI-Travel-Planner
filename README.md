@@ -51,7 +51,7 @@ An intelligent travel planning application that generates personalized travel it
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+https://github.com/DadvaiahPavan/AI-Travel-Planner
 cd ai-travel-planner
 ```
 
